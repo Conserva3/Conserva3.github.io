@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/img/logo.png
+  image: /assets/img/logo.png
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Population genetics"
