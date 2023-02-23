@@ -5,7 +5,7 @@ hidden: true
 header:
   image: /assets/img/logo.png
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/img/dna-solid.svg
     alt: "Population genetics"
     title: "Population genetics"
     excerpt: "Genetic diversity and structure can inform conservation measures, but it also can affect species reproduction and niche characteristics."
@@ -22,7 +22,7 @@ feature_row:
     # url: "/docs/license/"
 ---
 
-<h2> Project funded by...</h2>
+<h2> Proyecto financiado por...</h2>
 {% include figure image_path="/assets/img/funding.png" alt="Logos of the funding agencies." %}
 
 {% include feature_row %}
