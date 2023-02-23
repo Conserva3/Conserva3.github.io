@@ -3,7 +3,6 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#333"
   overlay_image: /assets/img/logo.png
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
@@ -22,6 +21,7 @@ feature_row:
     excerpt: "Niche characteristics (optimum and breadth) are directly drived by genetic information and are responsible for species to thrive and survive in their habitats."
     # url: "/docs/license/"
 ---
+
 <h2> Project funded by...</h2>
 {% include figure image_path="/assets/img/funding.png" alt="Logos of the funding agencies." %}
 
