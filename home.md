@@ -15,7 +15,7 @@ feature_row:
     title: "Reproduction success"
     excerpt: "Reproduction success is the key outcome of species reproductive biology, ensuring populations to perpetuate in a specific place."
     # url: "/docs/layouts/"
-  - image_path: /assets/img/mountain-sun.svg
+  - image_path: /assets/img/mountain-sun-solid.svg
     alt: "Ecological niche"
     title: "Ecological niche"
     excerpt: "Niche characteristics (optimum and breadth) are directly drived by genetic information and are responsible for species to thrive and survive in their habitats."
