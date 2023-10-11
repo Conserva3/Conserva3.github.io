@@ -10,7 +10,7 @@ feature_row:
     title: "Population genetics"
     excerpt: "Genetic diversity and structure can inform conservation measures, but it also can affect species reproduction and niche characteristics."
     # url: "/docs/configuration/"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/seedling-solid.svg
     alt: "Reproduction success"
     title: "Reproduction success"
     excerpt: "Reproduction success is the key outcome of species reproductive biology, ensuring populations to perpetuate in a specific place."
