@@ -290,3 +290,36 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _goals
+  - scope:
+      path: ""
+      type: goals
+    values:
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _species
+  - scope:
+      path: ""
+      type: species
+    values:
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
