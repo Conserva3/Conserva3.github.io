@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /species
+permalink: /species/
 hidden: true
 header:
   image: /assets/img/logo.png

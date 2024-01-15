@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /goals
+permalink: /goals/
 hidden: true
 header:
   image: /assets/img/logo.png
