@@ -22,7 +22,5 @@ feature_row:
     # url: "/docs/license/"
 ---
 
-<h2> Proyecto financiado por...</h2>
-{% include figure image_path="/assets/img/funding.png" alt="Logos of the funding agencies." %}
 
 {% include feature_row %}

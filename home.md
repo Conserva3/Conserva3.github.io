@@ -22,7 +22,7 @@ feature_row:
     # url: "/docs/license/"
 ---
 
-<h2> Proyecto financiado por...</h2>
+<h2> Project funded by...</h2>
 {% include figure image_path="/assets/img/funding.png" alt="Logos of the funding agencies." %}
 
 <p>In Conserva3 we aim to generate valuable information about the three taxa in the <i>Thymus mastichina</i> complex for its conservation. We aim to achieve this goal by integrating...
