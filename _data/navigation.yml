@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Equipo"
-    url: /equipo/
-  - title: "Objetivos"
-    url: /objetivos/
+  - title: "Species"
+    url: /species/
+  - title: "Team"
+    url: /team/
+  - title: "Goals"
+    url: /objetives/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

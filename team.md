@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /equipo
+permalink: /team
 hidden: true
 header:
   image: /assets/img/logo.png
