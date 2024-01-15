@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Equipo"
-    url: https://conserva3.github.io/equipo/
+    url: /equipo/
   - title: "Objetivos"
-    url: https://conserva3.github.io/objetivos/
+    url: /objetivos/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
