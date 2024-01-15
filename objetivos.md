@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /objetivos
 hidden: true
 header:
   image: /assets/img/logo.png
