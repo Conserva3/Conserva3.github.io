@@ -3,7 +3,7 @@ layout: splash
 permalink: /team/
 hidden: true
 header:
-  image: /assets/img/logo.png
+  image: 
 feature_row:
   - image_path: /assets/img/dna-solid.svg
     alt: "Population genetics"
