@@ -293,9 +293,9 @@ defaults:
   # _team
   - scope:
       path: ""
-      type: team
+      type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: false
       read_time: false
       comments: false
@@ -304,9 +304,9 @@ defaults:
   # _goals
   - scope:
       path: ""
-      type: goals
+      type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: false
       read_time: false
       comments: false
@@ -315,9 +315,9 @@ defaults:
   # _species
   - scope:
       path: ""
-      type: species
+      type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: false
       read_time: false
       comments: false
