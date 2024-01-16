@@ -20,7 +20,7 @@ title                    : "Conserva3 project"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Conserva3"
-description              : "An amazing website."
+description              : "An amazing website for the Conserva3 project."
 url                      : "https://conserva3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Conserva3/Conserva3.github.io"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : Conserva3Thymus
 facebook:
   username               :
   app_id                 :
@@ -90,9 +90,9 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://twitter.com/Conserva3Thymus # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -104,52 +104,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Diego Nieto Lugilde"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am the coIP of the project."
+  location         : "Córdoba (Spain)"
+  email            : bv2nilud@uco.es
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:bv2nilud@uco.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://dnietolugilde.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/dnietolugilde"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/dinilu"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/Conserva3Thymus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Conserva3"
 
 
 # Reading Files
