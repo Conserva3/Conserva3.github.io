@@ -5,20 +5,52 @@ hidden: true
 header:
   image: /assets/img/Team.jpg
 feature_row:
-  - image_path: /assets/img/dna-solid.svg
-    alt: "Population genetics"
-    title: "Population genetics"
-    excerpt: "Genetic diversity and structure can inform conservation measures, but it also can affect species reproduction and niche characteristics."
+  - image_path: 
+    alt: "IP: Regina Berjano"
+    title: "IP: Regina Berjano"
+    excerpt: "Profesora Titular de la Universidad de Sevilla"
     # url: "/docs/configuration/"
-  - image_path: /assets/img/seedling-solid.svg
-    alt: "Reproduction success"
-    title: "Reproduction success"
-    excerpt: "Reproduction success is the key outcome of species reproductive biology, ensuring populations to perpetuate in a specific place."
+  - image_path: 
+    alt: "IP: Diego Nieto Lugilde"
+    title: "IP: Diego Nieto Lugilde"
+    excerpt: "Profesor Titular de la Universidad de Córdoba"
     # url: "/docs/layouts/"
-  - image_path: /assets/img/mountain-sun-solid.svg
-    alt: "Ecological niche"
-    title: "Ecological niche"
-    excerpt: "Niche characteristics (optimum and breadth) are directly drived by genetic information and are responsible for species to thrive and survive in their habitats."
+  - image_path: 
+    alt: "Maria Angeles Ortiz Herrera"
+    title: "Maria Angeles Ortiz Herrera"
+    excerpt: "Profesora Titular de la Universidad de Sevilla"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "Manuel de la Estrella González"
+    title: "Manuel de la Estrella González"
+    excerpt: "Profesor Titular de la Universidad de Córdoba"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "Javier López Tirado"
+    title: "Javier López Tirado"
+    excerpt: "Profesor Sustituto Interino de la Universidad de Córdoba"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "Francisco Javier Jímenez López"
+    title: "Francisco Javier Jímenez López"
+    excerpt: "Investigador contratado de la Universidad Rey Juan Carlos"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "José Carlos Del Valle García"
+    title: "José Carlos Del Valle García"
+    excerpt: "Profesor Sustituto Interino de la Universidad de Sevilla"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "David Doblas Pruvost"
+    title: "David Doblas Pruvost"
+    excerpt: "Investigador contratado de la Universidad de Sevilla"
+    # url: "/docs/license/"
+  - image_path: 
+    alt: "Francisco Jose Garcia Cardenas"
+    title: "Francisco Jose Garcia Cardenas"
+    excerpt: "Investigador contratado de la Universidad de Sevilla"
     # url: "/docs/license/"
 ---
 
+
+{% include feature_row %}
