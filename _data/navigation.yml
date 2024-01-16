@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Approach"
+    url: /#approach
   - title: "Species"
     url: /species/
   - title: "Team"
