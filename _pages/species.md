@@ -7,7 +7,7 @@ header:
 feature_row:
   - image_path: /assets/img/fotos_plantas/T_albicans.jpg
     alt: "Thymus albicans"
-    title: "Thymus albicans"
+    title: "<i>Thymus albicans</i>"
     excerpt: ""
     # url: "/docs/configuration/"
   - image_path: /assets/img/fotos_plantas/T_donyanae.jpg
