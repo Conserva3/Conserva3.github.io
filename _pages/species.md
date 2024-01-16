@@ -12,12 +12,12 @@ feature_row:
     # url: "/docs/configuration/"
   - image_path: /assets/img/fotos_plantas/T_donyanae.jpg
     alt: "Thymus mastichina subsp. donyanae"
-    title: "<i>Thymus mastichina subsp. donyanae</i>"
+    title: "<i>Thymus mastichina</i> subsp. <i>donyanae</i>"
     excerpt: ""
     # url: "/docs/layouts/"
   - image_path: /assets/img/fotos_plantas/T_mastichina.jpg
     alt: "Thymus mastichina subsp. mastichina"
-    title: "<i>Thymus mastichina subsp. mastichina</i>"
+    title: "<i>Thymus mastichina</i> subsp. <i>mastichina</i>"
     excerpt: ""
     # url: "/docs/license/"
 ---
