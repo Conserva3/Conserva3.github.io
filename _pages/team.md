@@ -1,9 +1,9 @@
 ---
-layout: splash
+layout: single
 permalink: /team/
 hidden: true
 header:
-  image: 
+  image: /assets/img/Team.jpg
 feature_row:
   - image_path: /assets/img/dna-solid.svg
     alt: "Population genetics"
@@ -22,5 +22,3 @@ feature_row:
     # url: "/docs/license/"
 ---
 
-
-{% include feature_row %}
