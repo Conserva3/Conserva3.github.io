@@ -3,7 +3,7 @@ layout: single
 permalink: /goals/
 hidden: true
 header:
-  image: 
+  image: /assets/img/expo/TDurbDDP.jpg
 ---
 
 The main goal in CONSERVA3 is to evaluate the status of endemic and threatened *Thymus* species, in order to establish conservation priorities that can be used by conservation managers. This goal implies the following specific objectives:
