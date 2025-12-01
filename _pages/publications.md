@@ -8,7 +8,7 @@ header:
 
 ## Social networks:
 
-* Twitter: https://x.com/Conserva3Thymus
+* Twitter: [https://x.com/Conserva3Thymus](https://x.com/Conserva3Thymus)
 
 ## Expo
 
@@ -22,3 +22,6 @@ header:
 ## Scientific publications
 
 * Garcia-Cardenas, F. J., Ortiz, M. A., Valle, J. C. del, Doblas, D., Estrella, M. de la, Nieto-Lugilde, D., & Berjano, R. (2025, noviembre 27). Understanding Patterns of Interploidy Admixture in Polyploid Complexes: Insights from Thymus sect. Mastichina (Lamiaceae) (p. 2025.11.27.690785). p. 2025.11.27.690785. bioRxiv. doi: [10.1101/2025.11.27.690785](www.biorxiv.org/content/10.1101/2025.11.27.690785v1)
+
+* del Valle, J. C., Martín-Carretié, E. M.,  García-Cárdenas, F. J., Doblas Pruvost, D., Ortiz-Herrera, M. A., Thompson, J., Gauthier, P., Enlers. B., Nieto-Lugilde, D., & Berjano, R. (in prep.). Ecological and Genetic Determinants of Essential Oil Diversity in Mediterranean Thymus.
+
