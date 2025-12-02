@@ -10,14 +10,14 @@ header:
 
 * Twitter: [https://x.com/Conserva3Thymus](https://x.com/Conserva3Thymus)
 
-## Expo
+## Exhibitions
 
-* [Conoce nuestros tomillos endémicos](/assets/doc/Expo-Conoce_nuestros_tomillos_endemicos.pdf): Memoria de la exposición organizada en el marco del proyecto y que se expuso en el Jardín Botánico Dunas del Odiel.
+* [Conoce nuestros tomillos endémicos (spanish)](/assets/doc/Expo-Conoce_nuestros_tomillos_endemicos.pdf): Report (in spanish) on the exhibition organized within the framework of the project and which was exhibited in the Dunas del Odiel Botanical Garden.
 
 ## Podcast
 
-* [Conoce nuestros tomillos endémicos (en inglés)](/assets/media/know-our-endemic-thyme.mp3)
-* [Conservando el tomillo blanco (en inglés)](/assets/media/Conserving%20the%20White%20Thyme_%20A%20Conversation.mp3)
+* [Discover our endemic thymes (english)](/assets/media/know-our-endemic-thyme.mp3)
+* [Preserving the white thyme (english)](/assets/media/Conserving%20the%20White%20Thyme_%20A%20Conversation.mp3)
 
 ## Scientific publications
 
