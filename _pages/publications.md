@@ -6,9 +6,7 @@ header:
   image: /assets/img/expo/DSCN9606cop.jpg
 ---
 
-# Publications
-
-## Scientific publications
+# Scientific publications
 
 * del Valle, J. C., Martín-Carretié, E. M.,  García-Cárdenas, F. J., Doblas Pruvost, D., Ortiz-Herrera, M. A., Thompson, J., Gauthier, P., Enlers. B., Nieto-Lugilde, D., & Berjano, R. (in prep.). Ecological and Genetic Determinants of Essential Oil Diversity in Mediterranean Thymus.
 
@@ -18,15 +16,15 @@ header:
 
 * Romera-Romera, D., & Nieto-Lugilde, D. (2024). Should we exploit opportunistic databases with joint species distribution models? Artificial and real data suggest it depends on the sampling completeness. Ecography, e07340. doi: [10.1111/ecog.07340](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07340)
 
-## Social networks
+# Social networks
 
 * Twitter: [https://x.com/Conserva3Thymus](https://x.com/Conserva3Thymus)
 
-## Exhibitions
+# Exhibitions
 
 * [Conoce nuestros tomillos endémicos (spanish)](/assets/doc/Expo-Conoce_nuestros_tomillos_endemicos.pdf): Report (in spanish) on the exhibition organized within the framework of the project and which was exhibited in the Dunas del Odiel Botanical Garden.
 
-## Podcast
+# Podcast
 
 * [Discover our endemic thymes (english)](/assets/media/know-our-endemic-thyme.mp3)
 * [Preserving the white thyme (english)](/assets/media/Conserving%20the%20White%20Thyme_%20A%20Conversation.mp3)
